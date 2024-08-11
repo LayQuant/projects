@@ -435,3 +435,5 @@ plt.plot(full_data.index, full_data["b+h_return"]*100, label=f"{ticker} Buy + Ho
 plt.plot(full_data.index, full_data["random_strat_return_total"]*100, label=f"{ticker} Randomized Buy/Sell")
 plt.legend([f"{ticker} trading strategy", f"{ticker} B+H", f"{ticker} Randomized Buy/Sell"])
 plt.show()
+
+
