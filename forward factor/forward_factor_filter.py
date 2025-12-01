@@ -3,22 +3,25 @@ We take the forward factor and try and do a quick run through all the data?
 
 Weekly? (if FF works for 7-14 ATM Calls, it should be okay to speed through this.)
 (or we can just do 30-60-90 like everyone else?)
+You can find the stocks and ETFs with available weeklies using this link: https://www.cboe.com/available_weeklys/
+VV's video can be found here: https://www.youtube.com/watch?v=6ao3uXE5KhU
+The original paper can be found here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3240028
 
-    between two expiries from their DTEs and IVs.
-
-    Forward variance identity:
-        sigma_fwd = sqrt( (sigma2^2 * T2 - sigma1^2 * T1) / (T2 - T1) )
-
-    with T = DTE / 365 and sigma = IV / 100 (annualized).
+Forward variance identity (took this from Volatility Vibes' video iirc):
+    - sigma_fwd = sqrt( (sigma2^2 * T2 - sigma1^2 * T1) / (T2 - T1) ) 
+    - T = DTE / 365 and 
+    - sigma = IV / 100 (annualized).
 
     Forward Factor:
         FF = (FrontMonthIV − ForwardIV(1→2)) / ForwardIV(1→2)
            = (σ1 − σ_fwd) / σ_fwd
 
-want FF >= 0.20. That's the magic number.
+want FF >= 0.20. I should probably have FF >= 0.40 considering how bid/ask spreads go.
+
+
 
 How do I figure out average daily option volume?
-VV says it needs to be a 20-day average of >10,000 contracts traded (volume)?.
+Volatility Vibes says it needs to be a 20-day average of >10,000 contracts traded (volume)?.
 But that's not going to help me if all the options are trading in other expirations than what I need.
 Probably better to just make sure there's at least 100-contract volume that day in the strike and expirations I need.
 
