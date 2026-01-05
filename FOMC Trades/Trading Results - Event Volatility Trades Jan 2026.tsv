@@ -6,7 +6,7 @@ Date:	Event Type:	Account Type:	Day is Pre/During/Post:	Timeframe	Trade Ticker:	
 9/3/2025	Fed Beige Book	Real	During	Day	SVIX	Long Stock	ETF	$4,013.10	210	$19.11	$19.63	$109.20		didn't sell at close since ADP is next				Will update as new dates are announced.		
 9/4/2025	ADP Nat Emp	Real	During	Day	SVIX	Long Stock	ETF	$4,122.30	210	$19.63	$20.13	$105.00		Closed Out at EOD				https://adpemploymentreport.com/		open the Calendar dropdown to check ADP dates
 9/10/2025	CPI report	Real	Pre	Day	SPXL	Long Stock	ETF	$3,947.60	20	$197.38	$199.14	$35.20								
-9/11/2025	CPI report	Real	During	Day	SVIX	Long Stock	ETF	$4,146.00	200	$20.73	$21.16	$86.00						Add Monday SVXY soon!		
+9/11/2025	CPI report	Real	During	Day	SVIX	Long Stock	ETF	$4,146.00	200	$20.73	$21.16	$86.00							
 9/16/2025	FOMC Meeting	Real	Pre	Day	SVIX	Long Stock	ETF	$3,986.20	190	$20.98	$20.65	-$62.70								
 9/16/2025	FOMC Meeting	Real	Pre	Intraday	SPY	Iron Fly	Options	$141.00	1	$1.59	$0.59	$100.00		Wing size was $3 for the Iron Fly, 50-15 Deltas						
 9/17/2025	FOMC Meeting	Real	During	Day	SVIX	Long Stock	ETF	$3,923.50	190	$20.65	$21.36	$134.90		Just held the position from 9/16/2025						
@@ -110,4 +110,5 @@ Date:	Event Type:	Account Type:	Day is Pre/During/Post:	Timeframe	Trade Ticker:	
 9/15/2027	FOMC Meeting	Real	During																	
 10/27/2027	FOMC Meeting	Real	During																	
 12/8/2027	FOMC Meeting	Real	During																	
+
 
