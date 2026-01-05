@@ -1,4 +1,4 @@
-Date:	Event Type:	Account Type:	Day is Pre/During/Post:	Timeframe	Trade Ticker:	Trade Type:	Asset Type:	Amount Invested:	Quantity:	Price at Open:	Price at Close:	Gains:	Total Real Gains:	Notes:	"Sharpe":	4.84		Dates Pulled From these sites:		
+Date:	Event Type:	Account Type:	Day is Pre/During/Post:	Timeframe	Trade Ticker:	Trade Type:	Asset Type:	Amount Invested:	Quantity:	Price at Open:	Price at Close:	Gains:	Total Real Gains:	Notes:	Faux Sharpe:	4.84		Dates Pulled From these sites:		
 8/19/2025	FOMC Minutes	Sim	Pre	Intraday	SPXW	Iron Fly	Options	$2,085.00	1	-$17.35	-$33.65	-$1,630.00	$4,049.74	Simulated Iron Fly on Open				https://www.federalreserve.gov/newsevents/calendar.htm		
 8/20/2025	FOMC Minutes	Real	During	Day	SVXY	Long Stock	ETF	$3,774.40	80	$47.18	$47.32	$11.20		Bought at close of prior day				https://www.marketwatch.com/tools/options-expiration-calendar?year=2026		
 8/21/2025	FOMC Minutes	Real	Post	Day	VIXY	Long Stock	ETF	$3,763.00	100	$37.63	$38.07	$44.00	Sim Gains:	Bought at close of prior day				https://www.bls.gov/schedule/news_release/cpi.htm		
@@ -110,3 +110,4 @@ Date:	Event Type:	Account Type:	Day is Pre/During/Post:	Timeframe	Trade Ticker:	
 9/15/2027	FOMC Meeting	Real	During																	
 10/27/2027	FOMC Meeting	Real	During																	
 12/8/2027	FOMC Meeting	Real	During																	
+
