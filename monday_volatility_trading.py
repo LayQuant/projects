@@ -1,10 +1,10 @@
 """
+- Lay Quant
+
 Okay, Monday is kinda weird. Yet again. Here's how:
-# Note: when did SVXY lower leverage to -0.5x Vol from -1x?
-# Like... February 5th 2018?
-
+Note: when did SVXY lower leverage to -0.5x Vol from -1x?
+Like... February 5th 2018?
 Anyway, this is a short, quick trade that shouldn't be too hard.
-
 C2C Fridays also looks profitable for SVXY. But it's less return over more time... (24 hours instead of 6.5 hours)
 
 """
