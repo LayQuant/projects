@@ -1,0 +1,8 @@
+"""
+files include:
+- Commodity Calendar Trade backtesting code
+- Code to test the statistics of the number of days an assets has streaks in the same direction.
+- small look at the Fed Reserve's monthly Uranium price data
+  - data in csv of monthly Uranium prices.
+
+"""
