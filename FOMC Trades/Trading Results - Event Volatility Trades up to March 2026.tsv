@@ -86,8 +86,7 @@ Date:	Event Type:	Account Type:	Day is Pre/During/Post:	Timeframe	Trade Ticker:	
 2/19/2026	SPY OPEX/FOMC Minutes	Real	Post	Intraday	SPY	Straddle	Options	$457.00	1	$4.57	$0.69	-$388.00						
 2/20/2026	SPY OPEX	Real	During	Day	SVIX	Long Stock	ETF	$5,255.00	250	$21.02	$21.60	$145.00	Profit for February 2026:					
 3/2/2026	First Trading Day of Month	Real	During	Day	EDC	Long Stock	ETF					-	-$151.90	holding EDC from EEM/TLT trader prior trade				
-3/4/2026	Fed Beige Book	Real	During	Day	SVIX	Long Stock	ETF											
-3/5/2026	ADP Nat Emp	Real	During	Day	SVIX	Long Stock	ETF											
+3/4/2026	Fed Beige Book+ADP Nat Emp	Real	During	Day	SVIX	Long Stock	ETF											
 3/10/2026	CPI report	Real	Pre	Day	SPXL	Long Stock	ETF											
 3/11/2026	CPI report	Real	During	Day	SVIX	Long Stock	ETF											
 3/17/2026	FOMC Meeting	Real	Pre	Intraday	SPY	Iron Fly	Options											
@@ -128,3 +127,4 @@ Date:	Event Type:	Account Type:	Day is Pre/During/Post:	Timeframe	Trade Ticker:	
 9/15/2027	FOMC Meeting	Real	During															
 10/27/2027	FOMC Meeting	Real	During															
 12/8/2027	FOMC Meeting	Real	During															
+
