@@ -1,0 +1,2 @@
+- Momentum covers monthly/weekly/daily rebalancing of the Momentum strategy, along with other possible factors
+- Volatilty Reversion Alternate covers a (worse, but still interesting) effect with SPY's IBS
